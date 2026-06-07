@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /theatre/
+Disallow: /process_
+Disallow: /login.php
+Disallow: /registration.php
