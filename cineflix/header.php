@@ -10,6 +10,7 @@ date_default_timezone_set('Asia/Dhaka');
 <title>CineFlix</title>
 <link rel="icon" href="images/icon.png" type="image/png">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="CineFlix Team">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="all" />
@@ -57,7 +58,7 @@ date_default_timezone_set('Asia/Dhaka');
 		       	<div class="field" >
 		       	
 		       		     
-                                <input type="text" placeholder="Enter A Movie Name" class="search-input"  required id="search111" name="search">
+                                <input type="text" placeholder="Enter a Movie Name" class="search-input"  required id="search111" name="search">
                                 <input type="submit" value="Search" style="height:34px;padding-top:3px;transition: background-color 0.3s;" id="button111">
     </div>       	
 
