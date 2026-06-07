@@ -16,3 +16,6 @@
 
 # Build artifacts (if any)
 /dist/
+
+# Zip files
+*.zip
