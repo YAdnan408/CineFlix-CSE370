@@ -28,7 +28,7 @@
                         <a href="about.php">About Us</a><br>
                         <a href="terms.php">Terms and Conditions</a><br>
                         <a href="policy.php">Privacy Policy</a><br>
-                        <a href="#">Refund and Return Policy</a><br>
+                        <a href="refund.php">Refund Policy</a><br>
 					</div>
 				</div>
 				<div class="clear"></div>
