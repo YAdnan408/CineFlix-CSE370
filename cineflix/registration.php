@@ -49,6 +49,7 @@ $frm = new formBuilder;
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary">Sign Up</button>
+                                <p>Already registered? <a href="login.php">Login here</a></p>
                             </div>
                         </form>
                     </div>
