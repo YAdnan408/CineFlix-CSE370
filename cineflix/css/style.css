@@ -274,6 +274,7 @@ a:hover {
 }
 .h-logo {
   float: left;
+  text-align: center;
 }
 /*--banner--*/
 .main img {
@@ -813,6 +814,7 @@ a {
   border-right: 1px solid #db9603;
   margin: 20px 0;
   padding: 12px 14px 9px 10px;
+  cursor: pointer;
 }
 .latest_news {
   margin: -1px 5px 0 -1px;
