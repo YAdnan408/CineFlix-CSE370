@@ -8,6 +8,7 @@ date_default_timezone_set('Asia/Dhaka');
 <html>
 <head>
 <title>CineFlix</title>
+<link rel="icon" href="images/icon.png" type="image/png">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
