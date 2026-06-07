@@ -48,7 +48,7 @@ $frm = new formBuilder;
                                 <span class="glyphicon glyphicon-lock form-control-feedback"></span>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="btn btn-primary">Continue</button>
+                                <button type="submit" class="btn btn-primary">Sign Up</button>
                             </div>
                         </form>
                     </div>
