@@ -68,7 +68,7 @@ date_default_timezone_set('Asia/Dhaka');
 </div>
 <script>
 function myFunction() {
-     if($('#hero-demo').val()=="")
+     if($('#search111').val()=="")
         {
             alert("Please enter movie name...");
             return false;
@@ -76,5 +76,5 @@ function myFunction() {
     else{
         return true;
     }
-    </script>
 }
+</script>
