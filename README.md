@@ -8,8 +8,15 @@ Real-time updates on showtimes, last-minute changes, and coupled with timely
 reminders, ensure that users stay informed and never miss the excitement of
 their eagerly anticipated movies. CineFlix goes beyond being a ticketing site; it
 makes it easy to buy tickets and enjoy their shows.
+
 Technology Stack:
 1. Database: MySQL
 2. Backend: PHP
 3. Frontend: HTML, CSS, JavaScript
 4. Optional libraries: Bootstrap, etc
+
+### Setup Instructions
+1. Clone the repository.
+2. Create a `.env` file in the `cineflix/` directory based on `.env.example`.
+3. Import the `movietheatredb.sql` file into your MySQL database.
+4. Configure `config.php` with your database credentials.
