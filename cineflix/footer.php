@@ -5,7 +5,7 @@
 					<div class="info">
                         <p><img src="images/CineFlix Logo.jpg" height="80" width="175" alt="Image resize"/><br>
                         <!-- <img src="images/Flix.png" height="80" width="80" alt="Image resize"/><br> -->
-                        <span style="text-decoration: italic;"><strong>CineFlix Movies</strong></span><br>
+                        <span style="font-style: italic;"><strong>CineFlix Movies</strong></span><br>
 		                Kha 224 Bir Uttam Rafiqul Islam Avenue, Merul Badda, Dhaka<br>
 		              </div>
 				</div>
