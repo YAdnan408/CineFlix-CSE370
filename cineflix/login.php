@@ -20,7 +20,7 @@
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="btn btn-primary">Sign In</button>
-                                <p class="login-box-msg" style="padding-top:20px">New Here? <a href="registration.php">Register</a></p>
+                                <p class="login-box-msg" style="padding-top:20px">Don't have an account? <a href="registration.php">Register here</a></p>
                             </div>
                         </form>
                     </div>
