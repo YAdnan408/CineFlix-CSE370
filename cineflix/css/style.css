@@ -136,6 +136,7 @@ table {
 /* start editing from here */
 a {
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 .txt-rt {
   text-align: right;
