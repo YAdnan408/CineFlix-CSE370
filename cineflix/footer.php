@@ -25,6 +25,7 @@
 					<div class=policy>
                         <p><strong style="font-size: 18px;">About us</strong><br>
                         <a href="index.php">Home</a><br>
+                        <a href="about.php">About Us</a><br>
                         <a href="#">Terms and condition</a><br>
                         <a href="#">Privacy Policy</a><br>
                         <a href="#">Refund and Return Policy</a><br>
